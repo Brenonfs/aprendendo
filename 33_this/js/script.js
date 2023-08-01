@@ -11,3 +11,6 @@ let pessoa={
 
 pessoa.falar();
 console.log(pessoa.soma(3,5));
+
+let nome = "pedro";
+nome[0].toUpperCase
